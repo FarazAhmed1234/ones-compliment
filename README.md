@@ -1,1 +1,1 @@
-# ones-compliment
+binary number check & ones-compliment
